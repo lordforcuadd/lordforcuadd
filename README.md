@@ -21,14 +21,14 @@ Soy un desarrollador web con un enfoque sólido en la creación de aplicaciones 
 ## 🚀 Proyectos Destacados
 
 ### 📊 [LordStats](https://github.com/DanielMinaya)
-Plataforma de estadísticas para **League of Legends**.
-*   **Tech Stack:** Vue.js, Riot Games API, Tailwind CSS.
-*   **Detalle:** Integración avanzada con la API de Riot Games para el seguimiento de métricas de juego en tiempo real.
+Plataforma de estadísticas para **League of Legends** y analisis con IA.
+*   **Tech Stack:** Vue.js, Riot Games API, Tailwind CSS, Geminis API.
+*   **Detalle:** Integración avanzada con la API de Riot Games para el seguimiento de métricas de juego en tiempo real y coach con IA.
 
 ### 📚 [Lord Reader](https://github.com/DanielMinaya)
 Aplicación optimizada para la lectura y gestión de contenido multimedia.
-*   **Tech Stack:** Vue.js, Nuxt.js, Supabase.
-*   **Detalle:** Enfoque en la persistencia de datos eficiente y una interfaz de usuario minimalista.
+*   **Tech Stack:** Vue.js, Nuxt.js, Supabase, Mangadex API.
+*   **Detalle:** Enfoque en la persistencia de datos eficiente y una interfaz de usuario minimalista y rapida.
 
 ### 📝 [User Management CRUD](https://github.com/DanielMinaya)
 Sistema de gestión de usuarios desarrollado para pruebas técnicas de alto nivel.
@@ -37,8 +37,8 @@ Sistema de gestión de usuarios desarrollado para pruebas técnicas de alto nive
 
 ### 💈 [LB Beauty Study](https://github.com/DanielMinaya)
 E-commerce con pasarela de pagos y dashboard de administrador.
-*   **Tech Stack:** Vue.js 3, Laravel, Git, TypeScript.
-*   **Detalle:** Implementación de flujos de trabajo profesionales y manejo de estados eficiente.
+*   **Tech Stack:** Vue.js 3, Laravel, Git, TypeScript, culqui API.
+*   **Detalle:** Implementación de pasarela de pagos, dashboard de administrador y tienda completa con sistema de reservaciones reactivo.
 
 ---
 
