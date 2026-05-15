@@ -1,6 +1,6 @@
 
 
-# ¡Hola! Soy Daniel Minaya 👋
+# ¡Hola! Soy Daniel Minaya Diaz👋
 
 ### 👨‍💻 Full Stack Web Developer | Vue.js, Nuxt & Laravel Specialist
 
@@ -20,7 +20,7 @@ Soy un desarrollador web con un enfoque sólido en la creación de aplicaciones 
 
 ## 🚀 Proyectos Destacados
 
-### 📊 [LordStats](https://github.com/DanielMinaya)
+### 📊 [Lord Stats](https://github.com/DanielMinaya)
 Plataforma de estadísticas para **League of Legends** y analisis con IA.
 *   **Tech Stack:** Vue.js, Riot Games API, Tailwind CSS, Geminis API.
 *   **Detalle:** Integración avanzada con la API de Riot Games para el seguimiento de métricas de juego en tiempo real y coach con IA.
@@ -30,10 +30,10 @@ Aplicación optimizada para la lectura y gestión de contenido multimedia.
 *   **Tech Stack:** Vue.js, Nuxt.js, Supabase, Mangadex API.
 *   **Detalle:** Enfoque en la persistencia de datos eficiente y una interfaz de usuario minimalista y rapida.
 
-### 📝 [User Management CRUD](https://github.com/DanielMinaya)
-Sistema de gestión de usuarios desarrollado para pruebas técnicas de alto nivel.
-*   **Tech Stack:** Vue.js 3, Composition API, Git.
-*   **Detalle:** Implementación de flujos de trabajo profesionales y manejo de estados eficiente.
+### 📝 [Overlord](https://github.com/DanielMinaya)
+Optimizador de windows para pc y laptops, reactivo con inteligencia y scripts a nivel de kernel.
+*   **Tech Stack:** Vue.js 3, Tauri, Rust, Tawilwind css, PS, TypeScript, Git.
+*   **Detalle:** Aplicacion para optimizar, dar estabilidad y aligerar el windows, mejoras en fps para juegos, latencia y red optimizados y liberar cpu y memoria ram.
 
 ### 💈 [LB Beauty Study](https://github.com/DanielMinaya)
 E-commerce con pasarela de pagos y dashboard de administrador.
