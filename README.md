@@ -1,5 +1,5 @@
 <!-- ======================================================== -->
-<!-- 1. BANNER TERMINAL DITHERED (BLANCO Y NEGRO PURO)       -->
+<!-- BANNER TERMINAL DITHERED (MONOCROMÁTICO)                -->
 <!-- ======================================================== -->
 <div align="center">
   <picture>
@@ -12,13 +12,13 @@
 <br/>
 
 <!-- ======================================================== -->
-<!-- 2. PRESENTACIÓN & BIO                                    -->
+<!-- PRESENTACIÓN & PERFIL                                    -->
 <!-- ======================================================== -->
-# ¡Hola! Soy Daniel Minaya Diaz 👋
+# Daniel Minaya Diaz
 
-### 👨‍💻 Full Stack Web Developer | Vue.js, Nuxt & Laravel Specialist
+### Full Stack Web Developer | Vue.js, Nuxt & Laravel Specialist
 
-Soy un desarrollador web con un enfoque sólido en la creación de aplicaciones web de alto rendimiento. Me especializo en el ecosistema de **Vue.js**, utilizando herramientas modernas como **Nuxt** y **Supabase** para construir experiencias de usuario fluidas, reactivas y backends escalables. Además, desarrollo herramientas de optimización para sistemas de escritorio integrando **Tauri** y **Rust**.
+Desarrollador web enfocado en la construcción de aplicaciones modernas, reactivas y de alto rendimiento. Especializado en la arquitectura del ecosistema **Vue.js**, implementando herramientas de última generación como **Nuxt** y **Supabase** para crear interfaces fluidas y backends robustos y escalables. Complementariamente, desarrollo utilidades de optimización para sistemas de escritorio integrando **Tauri** y **Rust**.
 
 <br/>
 
@@ -38,9 +38,9 @@ Soy un desarrollador web con un enfoque sólido en la creación de aplicaciones 
 ---
 
 <!-- ======================================================== -->
-<!-- 3. ESTADÍSTICAS DE GITHUB (SELF-HOSTED VERCEL)           -->
+<!-- TELEMETRÍA & ACTIVIDAD DE GITHUB                         -->
 <!-- ======================================================== -->
-## 📈 Telemetría & Actividad en GitHub
+## Actividad & Estadísticas
 
 <div align="center">
   <!-- Streak Stats Card (Ancho completo) -->
@@ -53,14 +53,12 @@ Soy un desarrollador web con un enfoque sólido en la creación de aplicaciones 
 
 <br/>
 
-<!-- ======================================================== -->
-<!-- 4. CONTRIBUTION SNAKE ANIMATION                          -->
-<!-- ======================================================== -->
+<!-- CONTRIBUTION SNAKE -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lordforcuadd/lordforcuadd/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lordforcuadd/lordforcuadd/output/github-snake.svg" />
-    <img alt="Snake comiendo contribuciones" src="https://raw.githubusercontent.com/lordforcuadd/lordforcuadd/output/github-snake-dark.svg" width="100%" />
+    <img alt="Snake de contribuciones" src="https://raw.githubusercontent.com/lordforcuadd/lordforcuadd/output/github-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
@@ -69,9 +67,9 @@ Soy un desarrollador web con un enfoque sólido en la creación de aplicaciones 
 ---
 
 <!-- ======================================================== -->
-<!-- 5. STACK TECNOLÓGICO                                     -->
+<!-- STACK TECNOLÓGICO                                        -->
 <!-- ======================================================== -->
-## 🛠️ Mi Stack Tecnológico
+## Stack Tecnológico
 
 | Área | Tecnologías |
 | :--- | :--- |
@@ -85,53 +83,53 @@ Soy un desarrollador web con un enfoque sólido en la creación de aplicaciones 
 ---
 
 <!-- ======================================================== -->
-<!-- 6. PROYECTOS DESTACADOS                                  -->
+<!-- PROYECTOS DESTACADOS                                     -->
 <!-- ======================================================== -->
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
-### 📊 [Lord Stats](https://github.com/lordforcuadd/lord-stats)
-> Plataforma analítica para **League of Legends** con análisis y coaching impulsado por IA.
+### [Lord Stats](https://github.com/lordforcuadd/lord-stats)
+> Plataforma analítica para League of Legends con análisis de rendimiento y coaching asistido por IA.
 * **Tech Stack:** `Vue.js 3` · `Riot Games API` · `Tailwind CSS` · `Gemini AI API`
-* **Detalle:** Integración avanzada en tiempo real con las APIs de Riot Games para el seguimiento de métricas competitivas de juego y asistencia táctica personalizada con inteligencia artificial.
+* **Detalle:** Integración en tiempo real con los servicios de Riot Games para el seguimiento de métricas competitivas de juego y asistencia táctica personalizada mediante modelos de lenguaje.
 
 <br/>
 
-### 📚 [Lord Reader](https://github.com/lordforcuadd/lord-reader)
-> Aplicación web moderna optimizada para la lectura y gestión de contenido multimedia.
+### [Lord Reader](https://github.com/lordforcuadd/lord-reader)
+> Aplicación web orientada a la lectura y gestión fluida de contenido multimedia.
 * **Tech Stack:** `Vue.js 3` · `Nuxt.js` · `Supabase` · `MangaDex API`
-* **Detalle:** Enfoque prioritario en persistencia eficiente de datos en la nube, sincronización en vivo y una interfaz minimalista, ultrarrápida y libre de distracciones.
+* **Detalle:** Persistencia de datos en la nube con sincronización instantánea y una interfaz minimalista, optimizada para baja latencia y navegación continua.
 
 <br/>
 
-### 📝 [Overlord](https://github.com/lordforcuadd/overlord)
-> Optimizador reactivo para Windows (PC y Laptops) con scripts y ajustes a nivel de sistema/kernel.
+### [Overlord](https://github.com/lordforcuadd/overlord)
+> Optimizador reactivo para Windows diseñado para mejorar estabilidad, latencia y rendimiento de hardware.
 * **Tech Stack:** `Vue.js 3` · `Tauri` · `Rust` · `Tailwind CSS` · `TypeScript` · `PowerShell`
-* **Detalle:** Software enfocado en estabilidad, reducción de latencia de red, mejora de FPS para gaming competitivo y liberación inteligente de memoria RAM y uso de CPU.
+* **Detalle:** Herramienta enfocada en la reducción de latencia de red, incremento de tasas de cuadros por segundo (FPS) y gestión eficiente de recursos de CPU y memoria RAM mediante scripts a bajo nivel.
 
 <br/>
 
-### 💈 [LB Beauty Study](https://github.com/lordforcuadd)
-> E-commerce integral con pasarela de pagos, sistema de reservas y panel de administración.
+### [LB Beauty Study](https://github.com/lordforcuadd)
+> Plataforma de comercio electrónico con sistema integral de reservas y panel de control administrativo.
 * **Tech Stack:** `Vue.js 3` · `Laravel` · `Culqi API` · `TypeScript` · `Git`
-* **Detalle:** Flujo de compra completo con pasarela de pagos segura, gestión de inventario y citas en tiempo real mediante un dashboard administrativo reactivo.
+* **Detalle:** Integración de pasarelas de pago seguras, control de inventario y sistema de agendamiento en tiempo real gestionado desde un dashboard reactivo.
 
 <br/>
 
 ---
 
 <!-- ======================================================== -->
-<!-- 7. CONECTA CONMIGO & INFORMACIÓN                         -->
+<!-- CONTACTO & INFORMACIÓN                                   -->
 <!-- ======================================================== -->
-## 📫 Conecta conmigo
+## Contacto & Información
 
-* 📍 **Ubicación:** Los Olivos, Lima, Perú.
-* 🎓 **Formación:** Diseño y Desarrollo Web — **SENATI**.
-* 💬 **Hablemos sobre:** Arquitectura frontend, optimización de aplicaciones de alto rendimiento o el ecosistema de **Vue / Nuxt / Laravel**.
+* **Ubicación:** Los Olivos, Lima, Perú (Disponible para trabajo remoto).
+* **Formación:** Diseño y Desarrollo Web — **SENATI**.
+* **Enfoque técnico:** Arquitectura frontend, optimización de rendimiento web y desarrollo full stack en el ecosistema **Vue / Nuxt / Laravel**.
 
 <br/>
 
 <div align="center">
-  <a href="mailto:tu-correo@ejemplo.com">
+  <a href="mailto:danielminaya12346@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" />
   </a>
   &nbsp;&nbsp;
